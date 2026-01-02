@@ -10,7 +10,7 @@ import MLXLMCommon
 import MLXNN
 import Tokenizers
 
-typealias Message = MLXLMCommon.Message
+private typealias Message = MLXLM
 
 // MARK: - Language
 
