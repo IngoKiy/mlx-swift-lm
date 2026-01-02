@@ -12,7 +12,7 @@ import MLX
 import MLXLMCommon
 import Tokenizers
 
-private typealias Message = MLXLM
+private typealias Message = MLXLMCommon.Message
 
 // MARK: - Configuration and modeling are Idefics3
 
