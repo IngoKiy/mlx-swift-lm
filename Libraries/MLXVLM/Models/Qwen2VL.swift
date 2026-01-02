@@ -10,6 +10,8 @@ import MLXLMCommon
 import MLXNN
 import Tokenizers
 
+typealias Message = MLXLMCommon.Message
+
 // MARK: - Language
 
 private enum Language {
