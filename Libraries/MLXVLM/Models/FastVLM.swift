@@ -15,7 +15,7 @@ import MLXLMCommon
 import MLXNN
 import Tokenizers
 
-private typealias Message = MLXLM
+private typealias Message = MLXLMCommon.Message
 
 // MARK: - Configuration
 
