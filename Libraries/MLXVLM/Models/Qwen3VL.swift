@@ -8,7 +8,7 @@ import MLXLMCommon
 import MLXNN
 import Tokenizers
 
-typealias Message = MLXLMCommon.Message
+private typealias Message = MLXLM
 
 private enum Qwen3VLError: Error {
     case featureTokenMismatch(expected: Int, actual: Int)
