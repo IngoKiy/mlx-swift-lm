@@ -12,6 +12,8 @@ import MLX
 import MLXLMCommon
 import Tokenizers
 
+typealias Message = MLXLMCommon.Message
+
 // MARK: - Configuration and modeling are Idefics3
 
 typealias SmolVLM2Configuration = Idefics3Configuration
