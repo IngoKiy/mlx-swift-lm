@@ -15,6 +15,8 @@ import MLXLMCommon
 import MLXNN
 import Tokenizers
 
+typealias Message = MLXLMCommon.Message
+
 // MARK: - Configuration
 
 /// Configuration for ``FastVLM``
